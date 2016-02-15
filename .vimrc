@@ -1,6 +1,6 @@
-" 不要用空格代替制表符  
-set noexpandtab  
-  
+" 用空格代替制表符  
+set expandtab
+
 " 在行和段开始处使用制表符  
 set smarttab  
 set number
