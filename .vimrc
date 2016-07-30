@@ -10,6 +10,8 @@ set shiftwidth=4
 set autoindent
 set cindent
 set backspace=2
+set foldcolumn=0
+set foldmethod=syntax
 cs add /user/include/cscope.out
 set tags += =/usr/include/tags
 syntax on
