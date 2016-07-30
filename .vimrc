@@ -1,3 +1,10 @@
+call plug#begin('~/.vim/plugins_by_vimplug')
+Plug 'kien/ctrlp.vim'
+Plug 'scrooloose/syntastic'
+Plug 'majutsushi/tagbar'
+Plug 'airblade/vim-gitgutter'
+call plug#end()
+
 " 用空格代替制表符  
 set expandtab
 
