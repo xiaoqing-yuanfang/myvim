@@ -1,0 +1,20 @@
+        2、-Xmx： 表示java虚拟机堆区内存可被分配的最大上限，通常为操作系统可用内存的1/4大小。但是开发过程中，通常会将 -Xms 与 -Xmx两个参数的配置相同的值，其目的是为了能够在java垃圾回收机制清理完堆区后不需要重新分隔计算堆区的大小而浪费资源。,V
+ = ,v
+双队列(deque) 连续存储的指向不同元素的指针所组成的数组<deque>,V
+iota,v
+l,v
+mutexWaiterShift ,v
+	mutexWaiterShift = iota,V
+"vim-go"),v
+const (	mutexLocked = 1 << iota // mutex is locked	mutexWoken	mutexWaiterShift = iota),V
+const (	mutexLocked = 1 << iota // mutex is locked	mutexWoken	mutexWaiterShift = iota),v
+可以将iota理解为const语句的行索引,V
+k,V
+,V
+old,v
+int32_t,v
+T,v
+/usr/local/go,v
+recurrence,v
+,v
+下载,v
